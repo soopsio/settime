@@ -1,4 +1,4 @@
-// +build linux,cgo
+// !build windows,cgo
 
 package main
 
